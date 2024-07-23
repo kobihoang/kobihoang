@@ -16,3 +16,6 @@
 - Python
 - MongoDB
 - Docker
+
+## 
+![github stats](https://github-readme-stats.vercel.app/api?username=kobihoang)
