@@ -11,7 +11,6 @@
 - Flutter
 - React Native
 - React
-- NodeJS
 - NestJS
 - ElectronJS
 - Java Spring Boot
